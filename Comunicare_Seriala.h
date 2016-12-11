@@ -1,0 +1,1 @@
+void Comunicare_Seriala();
